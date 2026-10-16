@@ -18,12 +18,12 @@ The Nexora repository distributes **Windows application binaries, a Chrome Compa
 
 ## Download
 
-Download from the **Releases** section of this repository when a release has been published:
+Download the verified public beta from **[Nexora Releases — v2.2.0 r50.1](https://github.com/seunghwan1727-art/Nexora/releases/tag/v2.2.0-r50.1-public-2027)**:
 
-- **Windows app + public free license + bundled Companion 2.0.59:** ChatOnSteroids_v2.2.0_r50.1_Companion2.0.59_PUBLIC_FREE_TO_20271231_20261015.zip
-- **Companion 2.0.59 (standalone, MIT notice included):** ChatOnSteroids_Companion_2.0.59_PUBLIC_20261016.zip
+- **[Windows app + public free license + bundled Companion 2.0.59](https://github.com/seunghwan1727-art/Nexora/releases/download/v2.2.0-r50.1-public-2027/ChatOnSteroids_v2.2.0_r50.1_Companion2.0.59_PUBLIC_FREE_TO_20271231_20261015.zip)** — 197.9 MB
+- **[Companion 2.0.59 (standalone, MIT notice included)](https://github.com/seunghwan1727-art/Nexora/releases/download/v2.2.0-r50.1-public-2027/ChatOnSteroids_Companion_2.0.59_PUBLIC_20261016.zip)** — 334 KB
 
-Until a release is published, no downloads are available from this repository.
+Verify the SHA-256 values against the [release notes](RELEASE_NOTES_v2.2.0-r50.1-public-2027.md) before running downloaded binaries.
 
 ## Installation
 
