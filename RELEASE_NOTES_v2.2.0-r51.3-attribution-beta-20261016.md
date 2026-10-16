@@ -1,5 +1,7 @@
 # Nexora / COS v2.2.0 r51.3 - Attribution Beta (Companion 2.0.63)
 
+**SUPERSEDED INSTALLER NOTICE:** This original beta ZIP mistakenly omitted the 16, 32, 48 and 128 pixel Companion PNG icons. For fresh installations use the [r51.3 Icon Hotfix prerelease](https://github.com/seunghwan1727-art/Nexora/releases/tag/v2.2.0-r51.3-iconfix-beta-20261016), which includes them in both public downloads. The original assets are retained for release history.
+
 **EXPERIMENTAL PRE-RELEASE. NOT THE RECOMMENDED STABLE BUILD.**
 
 Release date: October 16, 2026.

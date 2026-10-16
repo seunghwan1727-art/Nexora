@@ -27,11 +27,13 @@ Verify the SHA-256 values against the [release notes](RELEASE_NOTES_v2.2.0-r50.1
 
 ### Experimental r51.3 Attribution Preview (not stable)
 
-An optional **[r51.3 / Companion 2.0.63 prerelease](https://github.com/seunghwan1727-art/Nexora/releases/tag/v2.2.0-r51.3-attribution-beta-20261016)** is available for testing improvements to Unattributed activity attribution.
+**Corrected ZIPs:** Use the **[r51.3 Companion 2.0.63 Icon Hotfix prerelease](https://github.com/seunghwan1727-art/Nexora/releases/tag/v2.2.0-r51.3-iconfix-beta-20261016)** for testing improvements to Unattributed activity attribution.
+
+The [original r51.3 beta](https://github.com/seunghwan1727-art/Nexora/releases/tag/v2.2.0-r51.3-attribution-beta-20261016) accidentally **omitted all four Chrome Companion icon PNGs**, although its manifest referenced them. Chrome could reject the extension at installation with "Could not load icon". The icon-hotfix corrects the extension files in both Windows and standalone Companion ZIPs without changing the executable or JavaScript behavior. **Do not download the older r51.3 ZIP if installing fresh.**
 
 **Do not replace a working r50.1 installation without a backup.** Codex's independent review is **CONDITIONAL**: previous P0 defects were resolved, but two P1 risks remain (loss of pending local Activity during immediate shutdown, and late evidence that downgrades a record to Unattributed). Recipient-PC Live E2E is not yet complete. The r50.1 download above remains the recommended default.
 
-See the [r51.3 beta release notes and checksums](RELEASE_NOTES_v2.2.0-r51.3-attribution-beta-20261016.md) for known limitations and rollback instructions.
+See the [r51.3 icon-hotfix release notes and checksums](RELEASE_NOTES_v2.2.0-r51.3-iconfix-beta-20261016.md) and the [underlying r51.3 patch notes](RELEASE_NOTES_v2.2.0-r51.3-attribution-beta-20261016.md) for known limitations and rollback instructions.
 
 ## Installation
 
