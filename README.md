@@ -25,6 +25,14 @@ Download the verified public beta from **[Nexora Releases — v2.2.0 r50.1](http
 
 Verify the SHA-256 values against the [release notes](RELEASE_NOTES_v2.2.0-r50.1-public-2027.md) before running downloaded binaries.
 
+### Experimental r51.3 Attribution Preview (not stable)
+
+An optional **[r51.3 / Companion 2.0.63 prerelease](https://github.com/seunghwan1727-art/Nexora/releases/tag/v2.2.0-r51.3-attribution-beta-20261016)** is available for testing improvements to Unattributed activity attribution.
+
+**Do not replace a working r50.1 installation without a backup.** Codex's independent review is **CONDITIONAL**: previous P0 defects were resolved, but two P1 risks remain (loss of pending local Activity during immediate shutdown, and late evidence that downgrades a record to Unattributed). Recipient-PC Live E2E is not yet complete. The r50.1 download above remains the recommended default.
+
+See the [r51.3 beta release notes and checksums](RELEASE_NOTES_v2.2.0-r51.3-attribution-beta-20261016.md) for known limitations and rollback instructions.
+
 ## Installation
 
 1. Download and fully extract the Windows ZIP to a writable, dedicated folder.
